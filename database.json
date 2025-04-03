@@ -1,0 +1,95 @@
+{
+    "job_type": [
+        {
+            "id": 0,
+            "name": "No preference",
+            "param_value": null
+        },
+        {
+            "id": 1,
+            "name": "Full-time",
+            "param_value": "full_time"
+        },
+        {
+            "id": 2,
+            "name": "Part-time",
+            "param_value": "part_time"
+        },
+        {
+            "id": 3,
+            "name": "Contract",
+            "param_value": "contract"
+        },
+        {
+            "id": 4,
+            "name": "Internship",
+            "param_value": "internship"
+        }
+    ],
+    "experience": [
+        {
+            "id": 0,
+            "name": "No preference",
+            "param_value": null
+        },
+        {
+            "id": 1,
+            "name": "Entry Level",
+            "param_value": "entry"
+        },
+        {
+            "id": 2,
+            "name": "Mid Level",
+            "param_value": "mid"
+        },
+        {
+            "id": 3,
+            "name": "Senior Level",
+            "param_value": "senior"
+        }
+    ],
+    "salary": [
+        {
+            "id": 0,
+            "name": "No preference",
+            "param_value": null
+        },
+        {
+            "id": 1,
+            "name": "$40,000+",
+            "param_value": "40000"
+        },
+        {
+            "id": 2,
+            "name": "$60,000+",
+            "param_value": "60000"
+        },
+        {
+            "id": 3,
+            "name": "$80,000+",
+            "param_value": "80000"
+        }
+    ],
+    "remote": [
+        {
+            "id": 0,
+            "name": "No preference",
+            "param_value": null
+        },
+        {
+            "id": 1,
+            "name": "Remote",
+            "param_value": "remote"
+        },
+        {
+            "id": 2,
+            "name": "On-site",
+            "param_value": "onsite"
+        },
+        {
+            "id": 3,
+            "name": "Hybrid",
+            "param_value": "hybrid"
+        }
+    ]
+}
